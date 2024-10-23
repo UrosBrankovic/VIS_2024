@@ -7,7 +7,7 @@ import solver
 def run_simulation():
     # Parameters
     m = 1.0      # mass (kg)
-    k = 10.0     # stiffness (N/m)
+    k = 1000.0     # stiffness (N/m)
     d = 0.001      # damping coefficient
 
     # initial conditions
